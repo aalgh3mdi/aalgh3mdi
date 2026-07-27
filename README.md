@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **how to utilise the AI in different applications**
 
-- 📄 Know about my experiences [Later](Later)
 
 - ⚡ Fun fact **Later on :D**
 
