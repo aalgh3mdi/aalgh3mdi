@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate engineer and researcher</h3>
-
-- 🔭 I’m currently working on **improving myself**
-
-- 🌱 I’m currently learning **how to utilise the AI in different applications**
+ I’m  working on applying AI into cybersecurity 
 
 
-- ⚡ Fun fact **Later on :D**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
